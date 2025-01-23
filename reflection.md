@@ -23,11 +23,19 @@ I would like to learn more about links, navigation, and menu.
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
+Nope, this is an easy notebook so I didn't need any help
+
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+It's ok, it could be more useful like having more element need to be fix
 
 #### ❏ Was there something that you wish had been explained better?
 
+Is keeping the original format enough? Do we need to make the html looks prettier?
+
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+It could added more elements with error or alert so we get to learn how to fix them instead of only a few error to fix
 
 ### CSS
 
