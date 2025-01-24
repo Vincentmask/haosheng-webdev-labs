@@ -9,7 +9,7 @@
   <main>
     <body>
       <h1>01 - Form</h1>
-      <form action="/submit">
+      <form action="#submit">
         <label>
           Name
           <input type="text" />
@@ -20,24 +20,29 @@
           <input type="text" />
         </label>
         <br /><br />
-        <span>Favorite Character</span>
-        <div>
-          <input type="radio" id="spongebob" value="spongebob" /><label
-            for="spongebob"
-            >Spongebob</label
-          >
-        </div>
-        <div>
-          <input type="radio" id="patrick" value="patrick" /><label
-            for="patrick"
-            >Patrick</label
-          >
-        </div>
-        <div>
-          <input type="radio" id="sandy" value="sandy" /><label for="sandy"
+        <fieldset>
+          <legend>Favorite Character</legend>
+
+          <input
+            type="radio"
+            id="spongebob"
+            name="character"
+            value="spongebob"
+          /><label for="spongebob">Spongebob</label>
+          <br />
+          <input
+            type="radio"
+            id="patrick"
+            name="character"
+            value="patrick"
+          /><label for="patrick">Patrick</label>
+          <br />
+          <input type="radio" id="sandy" name="character" value="sandy" /><label
+            for="sandy"
             >Sandy</label
           >
-        </div>
+          <br />
+        </fieldset>
         <br />
         <button>Submit</button>
       </form>
