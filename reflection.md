@@ -120,11 +120,20 @@ No in this one
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
+This one is easy
+
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+It did help me refreshed my memory of Javascript
 
 #### ❏ Was there something that you wish had been explained better?
 
+Everything is great! Cloud code more on the API related problem because I think
+that's the most important part of building a dynamic website
+
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+Nope
 
 ### Jquery
 

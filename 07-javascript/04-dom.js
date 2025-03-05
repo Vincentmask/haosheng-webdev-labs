@@ -1,17 +1,21 @@
-// Exercise #1:
-// when the user clicks the 'copy' button, copy the user input to the output area
+// Exercise #1: Click Event - Copy text on button click
+document.getElementById('copy').addEventListener('click', () => {
+    const userInput = document.getElementById('userInput1').value;
+    document.querySelector('.output').textContent = userInput;
+});
 
-// fetch JavaScript objects representing specific elements in the DOM
+// Exercise #2: Input Event - Live update output as user types
+document.getElementById('userInput2').addEventListener('input', (event) => {
+    const outputParagraph = document.createElement('p');
+    outputParagraph.textContent = event.target.value;
 
-// add an event listener on the target element
+    const section = document.getElementById('inputEventExample');
+    const existingOutput = section.querySelector('p.output-text');
 
-// callback function to handle event
-
-// Exercise #2:
-// when the user enters input text, copy the user input to the output area
-
-// fetch JavaScript objects representing specific elements in the DOM
-
-// add an event listener on the target element
-
-// callback function to handle event
+    if (existingOutput) {
+        existingOutput.textContent = event.target.value;
+    } else {
+        outputParagraph.classList.add('output-text');
+        section.appendChild(outputParagraph);
+    }
+});
