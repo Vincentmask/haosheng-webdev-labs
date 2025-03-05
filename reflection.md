@@ -61,3 +61,51 @@ file shown. Exercise 03 doesn't quite make sense.
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
 
 No that I know
+
+### FlexBox
+
+#### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+Nope, did use some help from ChatGPT and online resources
+
+#### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+Not really, not 100% sure what these exercises are here for
+
+#### ❏ Was there something that you wish had been explained better?
+
+everything on what the requirement should be
+
+#### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+Nope
+
+### Bootstrap
+
+#### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+#### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+#### ❏ Was there something that you wish had been explained better?
+
+#### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+### Javascript
+
+#### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+#### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+#### ❏ Was there something that you wish had been explained better?
+
+#### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+### Jquery
+
+#### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+#### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+#### ❏ Was there something that you wish had been explained better?
+
+#### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
