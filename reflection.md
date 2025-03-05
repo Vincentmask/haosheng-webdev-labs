@@ -80,15 +80,41 @@ everything on what the requirement should be
 
 Nope
 
+### css-grid
+
+#### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+Yes
+
+#### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+The layout part 1 was fun
+
+#### ❏ Was there something that you wish had been explained better?
+
+N/A, everything is good
+
+#### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+Nope in this section
+
 ### Bootstrap
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
+Nope, this one is quite easy, just need to checked the bootstrap website
+
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+Overall everything is pretty helpful
 
 #### ❏ Was there something that you wish had been explained better?
 
+N/A
+
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+No in this one
 
 ### Javascript
 
