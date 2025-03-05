@@ -139,8 +139,18 @@ Nope
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
+Just some refreshement on jquery, but did get little rusty on the dollar sign
+tho, so I went online for some help
+
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+It's great, even tho I don't think jquery is still popular now but it is still
+good to have the knowledge of it.
 
 #### ❏ Was there something that you wish had been explained better?
 
+Everything was pretty clear and stright forward so nope
+
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+No that I know in this lab
