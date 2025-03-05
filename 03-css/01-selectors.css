@@ -6,16 +6,57 @@
   --royalblue: #4169e1;
   --teal: #008080;
   --violet: #9400d3;
+  --dogviolet: rgb(189, 0, 219);
+  --catlightblue: rgb(0, 157, 154);
+  --parrotgreen: rgb(0, 144, 0);
+  --donkeyblue: rgb(55, 121, 233);
 }
 
 /* Use attribute selectors for the first part of the exercise */
 
-li[class] {
-  color: var(--red);
+.dog {
+  color: var(--dogviolet);
+}
+
+#cat {
+  color: var(--catlightblue);
+}
+
+.parrot {
+  color: var(--parrotgreen);
+}
+
+.donkey {
+  color: var(--donkeyblue);
+}
+
+.hedgehog {
+  color: var(--violet);
+}
+
+.cat.dog.parrot {
+  color: var(--donkeyblue);
 }
 
 /* Use descendant, child, and sibling selectors for the second part */
 
 section li {
-  color: var(--green);
+  color: var(--parrotgreen);
+}
+
+.list-food .first {
+  color: var(--parrotgreen); /* Eggs */
+}
+
+.list-food .second {
+  color: var(--violet);
+}
+
+/* Use nth-child for the remaining items */
+.list-food ol li:nth-child(3) {
+  color: var(--donkeyblue); /* Milk */
+}
+
+.list-food ol li:nth-child(4) {
+  color: var(--violet); /* Coffee */
 }

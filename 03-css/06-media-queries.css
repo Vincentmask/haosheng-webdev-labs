@@ -1,6 +1,94 @@
+/* Base Styles */
+body {
+  background: var(--purple);
+  color: var(--white);
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  width: 100%;
+  background: var(--black);
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column; /* Stacks links for small screens */
+  gap: 10px;
+}
+
+nav ul li {
+  display: block;
+  text-align: left;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: var(--white);
+  font-weight: bold;
+  font-size: 18px;
+}
+
+/* Main container */
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Sections */
+#parmesan,
+#manchego {
+  padding: 20px;
+}
+
+#parmesan,
+#manchego {
+  background: var(--purple);
+  color: var(--white);
+}
+
+/* Medium Screens */
+@media (min-width: 768px) {
+  body {
+    background: var(--orange);
+  }
+
+  nav ul {
+    flex-direction: row;
+    justify-content: left;
+  }
+
+  #parmesan,
+  #manchego {
+    background: var(--orange);
+    color: var(--black);
+  }
+}
+
+/* Large Screens */
 @media (min-width: 1024px) {
   body {
     background: var(--green);
-    color: var(--white);
+  }
+
+  nav ul {
+    flex-direction: row; /* Horizontal menu */
+    justify-content: left;
+  }
+
+  .main {
+    gap: 20px;
+  }
+
+  #parmesan,
+  #manchego {
+    background: var(--green);
   }
 }

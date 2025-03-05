@@ -2,3 +2,9 @@
   width: 600px;
   margin: 40px auto;
 }
+
+.paragraph::first-letter {
+  text-transform: uppercase;
+  font-size: 4em;
+  font-weight: bold;
+}

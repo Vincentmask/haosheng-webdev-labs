@@ -4,16 +4,19 @@
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
-I did look up for the useage between td/th/tr and some other tags about tables in ChatGPT, since I bearly used them before
+I did look up for the useage between td/th/tr and some other tags about tables
+in ChatGPT, since I bearly used them before
 
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
 
-I think this is pretty helpful for intro to html, something I want to learn more will be link and link from other files so on.
+I think this is pretty helpful for intro to html, something I want to learn more
+will be link and link from other files so on.
 
 #### ❏ Was there something that you wish had been explained better?
 
-Both place holder of the exercise 02 of dog and cat are broken, maybe we cloud find something else to add on.
-Plus it could be more helpful on explain how these lab will be graded
+Both place holder of the exercise 02 of dog and cat are broken, maybe we cloud
+find something else to add on. Plus it could be more helpful on explain how
+these lab will be graded
 
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
 
@@ -31,18 +34,30 @@ It's ok, it could be more useful like having more element need to be fix
 
 #### ❏ Was there something that you wish had been explained better?
 
-Is keeping the original format enough? Do we need to make the html looks prettier?
+Is keeping the original format enough? Do we need to make the html looks
+prettier?
 
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
 
-It could added more elements with error or alert so we get to learn how to fix them instead of only a few error to fix
+It could added more elements with error or alert so we get to learn how to fix
+them instead of only a few error to fix
 
 ### CSS
 
 #### ❏Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
+I do have to do some online searching for the layout of text
+
 #### ❏ How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+It helps for understanding how selecter and media queires. I did learn a lot
+from exercise 06 and 04
 
 #### ❏ Was there something that you wish had been explained better?
 
+the color provided in the code is not the same as the screenshot on markdown
+file shown. Exercise 03 doesn't quite make sense.
+
 #### ❏ Were there other exercises that might have helped you learn this week’s topic a little better?
+
+No that I know
