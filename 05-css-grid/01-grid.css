@@ -1,17 +1,80 @@
 .grid-container {
-  background-color: rgb(190, 190, 231);
+  display: grid;
+
+  background: white;
+  color: white;
+}
+
+.grid-item {
+  background: purple;
+  border: 2px solid white;
+  font-size: 1.5em;
+  justify-content: start;
+  padding: 20px;
 }
 
 /* Grid Container 1 */
+.grid-container-1 {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 2fr;
+}
 
 /* Grid Container 2 */
+
+.grid-container-2 {
+  height: 400px;
+  grid-template-columns: 20% 40% 20% 20%;
+  grid-template-rows: 1fr 4fr 1fr 1fr;
+}
 
 /* use height: 400px; on the container */
 
 /* Grid Container 3 */
-
-/* use height: 400px; on the container */
+.grid-container-3 {
+  height: 400px;
+  display: grid;
+  grid-template-rows: 0.5fr 1fr 1fr; /* Three equal columns */
+  grid-template-columns: 10% 25% 25%;
+  gap: 5px;
+}
+.grid-container-3 .item1 {
+  grid-column: span 1;
+}
+.grid-container-3 .item2 {
+  grid-column: span 1;
+}
+.grid-container-3 .item3 {
+  grid-column: span 1;
+}
+.grid-container-3 .item4 {
+  grid-column: span 1;
+}
+.grid-container-3 .item5 {
+  grid-column: span 1;
+}
+.grid-container-3 .item6 {
+  grid-column: span 1;
+}
+.grid-container-3 .item7 {
+  grid-column: span 1;
+}
+.grid-container-3 .item8 {
+  grid-column: span 2;
+}
 
 /* Grid Container 4 */
+.grid-container-4 {
+  height: 600px;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: repeat(5, 1fr);
+}
+
+.grid-container-4 .item1 {
+  grid-row: span 2;
+}
+
+.grid-container-4 .item6 {
+  grid-column: span 2;
+}
 
 /* use height: 600px; on the container */
